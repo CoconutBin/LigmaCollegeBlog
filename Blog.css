@@ -1,0 +1,8 @@
+
+.blog-green{
+    color:#57e97b;
+    text-shadow: white 0px 0px 2px ;
+}
+.blog-green:hover {
+    color: #57e97b;
+  }
